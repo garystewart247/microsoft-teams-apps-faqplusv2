@@ -38,11 +38,6 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Cards
                     },
                     new AdaptiveTextBlock
                     {
-                        Text = question,
-                        Wrap = true,
-                    },
-                    new AdaptiveTextBlock
-                    {
                         Text = answer,
                         Wrap = true,
                     },
